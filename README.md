@@ -1,2 +1,2 @@
 # jovial
-jovial.repo
+jovial.repo for git commands
