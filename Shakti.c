@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
-int main()
+void main()
 {
-printf("Shakti");
+printf("Shakti\n");
+printf("github");
 }
