@@ -4,5 +4,6 @@ void main()
 {
 printf("Shakti\n");
 printf("Github\n");
-printf("Github Essentials Done");
+printf("Github Essentials Done\n");
+printf("GitHub Refreshed");
 }
